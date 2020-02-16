@@ -48,6 +48,7 @@ function scrollUp(){
     }, 100);
 }
 
+
 function refreshPage(){
     window.location.reload();
 }
