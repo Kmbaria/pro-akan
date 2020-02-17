@@ -1,10 +1,10 @@
 # Pro-akan
 ## Description
 This is a project that tell your akan name according to the dates months and year you were born
-#### {this site briefly talks about Ghana and how the getr their names
+#### {this site briefly talks about Ghana and how the getr their names}
 ## this website was build on
-{14 feb 2020}
-#### By **kmbaria**  
+###{14 feb 2020}
+#### By **George Kinyanjui Mbaria**  
 ## Site
 the Akan site.
 https://kmbaria.github.io/pro-akan/ <br>
