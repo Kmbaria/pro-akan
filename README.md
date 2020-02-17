@@ -1,4 +1,4 @@
-# pro-akan
+# Pro-akan
 ## Description
 This is a project that tell your akan name according to the dates months and year you were born
 #### {this site briefly talks about Ghana and how the getr their names
@@ -7,7 +7,7 @@ This is a project that tell your akan name according to the dates months and yea
 ## Site
 the Akan site.
 https://kmbaria.github.io/pro-akan/ <br>
-our developers site.
+Our School site.
 http://moringaschool.com 
 ## Known Bugs
  {There are no bugs at this site}
