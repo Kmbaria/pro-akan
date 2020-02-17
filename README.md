@@ -12,7 +12,7 @@ http://moringaschool.com
 ## Known Bugs
  {There are no bugs at this site}
 ## Technologies Used
-{The languages and tools you used to create this app ARE. <br>(HTML, Css & Javascript).}
+{The languages and tools you used to create this app ARE. <br>(HTML, Css & Javascript.)}
 ## Support and contact details
   Mail me for more information: Kmbaria.george@gmail.com. 
 
