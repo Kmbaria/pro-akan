@@ -5,6 +5,9 @@ this is a project that tell your akan name according to the dates months and yea
 , {17 feb 2020}
 #### By **kmbaria**  
 ## Site
+the Akan site.
+https://kmbaria.github.io/pro-akan/
+our developers site.
 http://moringaschool.com 
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
