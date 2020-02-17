@@ -1,14 +1,9 @@
 # pro-akan
+## Description
 this is a project that tell your akan name according to the dates months and year you were born
 #### {this site briefly talks about Ghana and how the getr their names
 , {17 feb 2020}
-#### By **kmbaria**
-## Description
-Written with a little guidance from moringa school
-Hello , world!
-My life in coding 
-Experience in coding
-My improvement in coding
+#### By **kmbaria**  
 ## Site
 http://moringaschool.com 
 ## Known Bugs
