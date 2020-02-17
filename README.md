@@ -6,13 +6,13 @@ this is a project that tell your akan name according to the dates months and yea
 #### By **kmbaria**  
 ## Site
 the Akan site.
-https://kmbaria.github.io/pro-akan/
+https://kmbaria.github.io/pro-akan/ <br>
 our developers site.
 http://moringaschool.com 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+ {There are no bugs at this site}
 ## Technologies Used
-{The languages and tools you used to create this app ARE.(HTML, Css & Javascript).}
+{The languages and tools you used to create this app ARE. <br>(HTML, Css & Javascript).}
 ## Support and contact details
   Mail me for more information: Kmbaria.george@gmail.com. 
 
