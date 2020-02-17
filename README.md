@@ -1,7 +1,7 @@
 # pro-akan
 this is a project that tell your akan name according to the dates months and year you were born
 #### {this site briefly talks about Ghana and how the getr their names
-, {7 feb 2020}
+, {17 feb 2020}
 #### By **kmbaria**
 ## Description
 Written with a little guidance from moringa school
@@ -14,7 +14,7 @@ http://moringaschool.com
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-{The languages and tools you used to create this app ARE.(HTML & Css).}
+{The languages and tools you used to create this app ARE.(HTML, Css & Javascript).}
 ## Support and contact details
 {This is just few for more details about parrots, ideas or concerns.  Mail me for more information: Kmbaria.george@gmail.com}
 
